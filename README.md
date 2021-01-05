@@ -1,4 +1,4 @@
-# Portfolio: Note It 
+# Portfolio: Note-It 
 
 An app to save and edit notes (Google Keep clone).
 
