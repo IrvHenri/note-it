@@ -11,7 +11,7 @@ https://irvhenri.github.io/note-it/
 
 ## Motivation
 
-I thought what better way to learn more about arrays and data sets than to create a note taking app? In my most challenging project thus far, I took a deeper dive into DOM manipulation , event listeners and working with classes.
+I thought what better way to learn more about arrays and data sets than to create a note taking app? I use Google Keep quite often and so I wanted to try and make a clone! I took a deeper dive into DOM manipulation, event listeners and working with classes.
 
 ## Tech Stack
 - HTML
